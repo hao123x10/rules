@@ -1,5 +1,5 @@
-.google.com
 .android.com
+.google.com
 .androidify.com
 .blogger.com
 .blogblog.com
