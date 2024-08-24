@@ -1134,5 +1134,5 @@ uberproxy-with-cn6.l.google.com
 qiao-cn.com
 .gvt1-cn.com
 .gvt2-cn.com
-play.google.com
+.play.google.com
 
