@@ -1,5 +1,4 @@
 .android.com
-.google.com
 .androidify.com
 .blogger.com
 .blogblog.com
@@ -365,6 +364,7 @@ mtalk.google.com
 .google.co.za
 .google.co.zm
 .google.co.zw
+.google.com
 .google.com.af
 .google.com.ag
 .google.com.ai
@@ -580,7 +580,6 @@ mtalk.google.com
 .g-tun.com
 .g.cn
 .g.co
-
 uberproxy-with-cn.l.google.com
 uberproxy-with-cn4.l.google.com
 uberproxy-with-cn6.l.google.com
