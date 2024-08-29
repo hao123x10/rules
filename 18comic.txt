@@ -25,3 +25,4 @@ DOMAIN-SUFFIX,jmfreedomproxy.one
 DOMAIN-SUFFIX,jmeadpoolcdn.one
 DOMAIN-SUFFIX,jmeadpoolcdn.life
 DOMAIN-SUFFIX,jmapiproxyxxx.one
+DOMAIN-KEYWORD,jmapiproxy
