@@ -29,3 +29,5 @@ DOMAIN-SUFFIX,jmcomic1.city
 DOMAIN-SUFFIX,jmcomic1.me
 DOMAIN-SUFFIX,jmcomic1.mobi
 DOMAIN-SUFFIX,jmcomic2.moe
+DOMAIN-SUFFIX,cdnxxx-proxy.xyz
+DOMAIN-SUFFIX,cdnxxx-proxy.vip
