@@ -1,3 +1,4 @@
+DOMAIN-KEYWORD,jmapp
 DOMAIN-KEYWORD,jmapinodeudzn
 DOMAIN-KEYWORD,jmapiproxy
 DOMAIN-SUFFIX,jmeadpoolcdn.life
