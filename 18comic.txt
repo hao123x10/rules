@@ -2,6 +2,7 @@ DOMAIN-KEYWORD,cdnxxx-proxy
 DOMAIN-KEYWORD,jmapp
 DOMAIN-KEYWORD,jmapinodeudzn
 DOMAIN-KEYWORD,jmapiproxy
+DOMAIN-SUFFIX,cdnblackmyth.xyz
 DOMAIN-SUFFIX,jmeadpoolcdn.life
 DOMAIN-SUFFIX,jmapiproxyxxx.one
 DOMAIN-SUFFIX,jmfreedomproxy.xyz
