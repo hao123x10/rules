@@ -1,3 +1,5 @@
+DOMAIN-KEYWORD,cdnaspa
+DOMAIN-KEYWORD,cdnplaystation6
 DOMAIN-KEYWORD,cdnxxx-proxy
 DOMAIN-KEYWORD,jmapp
 DOMAIN-KEYWORD,jmapinodeudzn
