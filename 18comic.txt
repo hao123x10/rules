@@ -1,5 +1,7 @@
-DOMAIN-KEYWORD,cdnaspa
-DOMAIN-KEYWORD,cdnplaystation6
+DOMAIN-SUFFIX,cdnaspa.vip
+DOMAIN-SUFFIX,cdnaspa.club
+DOMAIN-SUFFIX,cdnplaystation6.cc
+DOMAIN-SUFFIX,cdnplaystation6.vip
 DOMAIN-KEYWORD,cdnxxx-proxy
 DOMAIN-KEYWORD,jmapp
 DOMAIN-KEYWORD,jmapinodeudzn
