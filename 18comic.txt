@@ -2,6 +2,8 @@ DOMAIN-SUFFIX,cdnaspa.vip
 DOMAIN-SUFFIX,cdnaspa.club
 DOMAIN-SUFFIX,cdnplaystation6.cc
 DOMAIN-SUFFIX,cdnplaystation6.vip
+DOMAIN-SUFFIX,jmdanjonproxy.vip
+DOMAIN-SUFFIX,apijm.cc
 DOMAIN-KEYWORD,cdnxxx-proxy
 DOMAIN-KEYWORD,jmapp
 DOMAIN-KEYWORD,jmapinodeudzn
